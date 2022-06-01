@@ -21,12 +21,12 @@
 	},
     "autoload": {
         "psr-4": {
-            "neoka4\\jwt\\": ""
+            "sizeg\\jwt\\": ""
         }
     },
 	"autoload-dev": {
         "psr-4": {
-            "neoka4\\jwt\\tests\\": "tests/"
+            "sizeg\\jwt\\tests\\": "tests/"
         }
     },
     "repositories": [
